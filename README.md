@@ -1,5 +1,8 @@
 Tools Ini Dibuat Oleh ./DaxxzXploit
 
+Username: daxxzxploit
+Password: daxxzxploit
+
 Jika Kamu Ingin Menggunakan Tools Ini, Ada Beberapa Module Yang Harus Di Install Terlebih Dahulu.
 
 Cara Install Dibawah Ini:
