@@ -12,7 +12,7 @@ $pkg install python
 
 $pkg install pip
 
-$pkg install git clone
+$pkg install git
 
 $pip install exifread pymediainfo
 
