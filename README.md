@@ -1,6 +1,6 @@
 ## Tools Ini Dibuat Oleh ./DaxxzXploit🚀
 
-# Versi Sebelumnya: 1.0.0
+# Versi Sebelumnya: 1.0.0 ❌
 
 # Versi Sekarang: 1.0.1 ✅
 
@@ -16,7 +16,7 @@ Cara Install Dibawah Ini:
 
 Termux: 
 
-$ pkg update $$ pkg upgrade
+$ pkg update && pkg upgrade
 
 $pkg install python
 
