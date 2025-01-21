@@ -1,7 +1,14 @@
-Tools Ini Dibuat Oleh ./DaxxzXploit
+## Tools Ini Dibuat Oleh ./DaxxzXploit🚀
 
-Username: daxxzxploit
-Password: daxxzxploit
+# Versi Sebelumnya: 1.0.0
+
+# Versi Sekarang: 1.0.1 ✅
+
+# Penambahan Fitur Email LookUp Dan Phone Number LookUp
+
+- Username: daxxzxploit
+
+- Password: daxxzxploit
 
 Jika Kamu Ingin Menggunakan Tools Ini, Ada Beberapa Module Yang Harus Di Install Terlebih Dahulu.
 
@@ -37,6 +44,6 @@ Jika pip install python-whois Tidak Bisa, Anda Bisa Menggunakan:
 
 $pip install pywhois
 
-Jangan Hapus Credits Ya!!
+# Jangan Hapus Credits Ya!!
 
-Jika Fitur Nomor 3 Tidak Memberi Respon Atau Jawaban Berarti Foto Tersebut Tidak Bisa Untuk Dilakukan Pencarian Informasi Lebih Lanjut.
+# Jika Fitur Nomor 3 Tidak Memberi Respon Atau Jawaban Berarti Foto Tersebut Tidak Bisa Untuk Dilakukan Pencarian Informasi Lebih Lanjut.
